@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using OOP.Encapsulation;
 
-Console.WriteLine("Hello, World!");
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+        // Encapsulation
+        var newCar = new Benz("C200");
+
+        // Internal methods of the Benz class are not visible from outside of the calss
+        Console.WriteLine($"Car name is: {newCar.Name} which is readOnly");
+        newCar.Start();
+    }
+}
