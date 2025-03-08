@@ -1,4 +1,4 @@
-namespace OOP.Encapsulation;
+namespace Encapsulation;
 
 public interface ICar
 {

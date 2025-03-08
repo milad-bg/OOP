@@ -1,6 +1,4 @@
-﻿using OOP.Encapsulation;
-
-namespace OOP;
+﻿namespace Encapsulation;
 
 public static class Program
 {

@@ -1,4 +1,4 @@
-namespace OOP.Encapsulation;
+namespace Encapsulation;
 
 // Apply encapsulation using Access Modifiers
 public class Benz : ICar
