@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{2B4A49BC-1E55-4088-BC54-1C9E0C252788}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClass", "BaseClass\BaseClass.csproj", "{AC243EEA-AE3B-4504-ABF6-EB969147F845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2B4A49BC-1E55-4088-BC54-1C9E0C252788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B4A49BC-1E55-4088-BC54-1C9E0C252788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B4A49BC-1E55-4088-BC54-1C9E0C252788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC243EEA-AE3B-4504-ABF6-EB969147F845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC243EEA-AE3B-4504-ABF6-EB969147F845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC243EEA-AE3B-4504-ABF6-EB969147F845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC243EEA-AE3B-4504-ABF6-EB969147F845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
